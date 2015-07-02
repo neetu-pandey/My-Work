@@ -1,0 +1,23 @@
+.firstDiv span {
+    background-color: bisque;
+    border-style: solid;
+    margin: 5px;
+    padding: 2px;
+    text-align: center;
+}
+
+.secondDiv span {
+    background-color: azure;
+    border-style: solid;
+    margin: 5px;
+    padding: 2px;
+    text-align: center;
+}
+
+.fluidDiv span {
+    background-color: antiquewhite;
+    border-style: solid;
+    text-align: center;
+    margin-bottom: 5px;
+    padding: 2px;
+}
